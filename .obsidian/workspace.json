@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "ee8af9c5cdad74f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "e99773d3ca4f211b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88f1bb7bd33bb33f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Tiger Book/Chapter 1 Introduction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "76d492c702e28813",
+    "type": "split",
+    "children": [
+      {
+        "id": "864e71b74a41c45c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a4cee90af7d85ba",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "41b4912f30432f14",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "de11990d6aa602d2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c3198bb6cc190a68",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e96428487fea1ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "123061944cb481a2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "The Tiger Book/Chapter 1 Introduction.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "715747ea97341b22",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "The Tiger Book/Chapter 1 Introduction.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fb9c94d417cb20af",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bd4e44e42afe8eee",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "The Tiger Book/Chapter 1 Introduction.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "88f1bb7bd33bb33f",
+  "lastOpenFiles": [
+    "未命名.md",
+    "The Tiger Book/Chapter 1 Introduction.md",
+    "pbrt/Chapter 1 Introduction.md",
+    "The Tiger Book",
+    "pbrt"
+  ]
+}
