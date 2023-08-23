@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graphics/pbrt/Chapter 1 Introduction.md",
+                "file": "Graphics/pbrt/球坐标.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Graphics/pbrt/球坐标.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Graphics/pbrt/球坐标.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Graphics/pbrt/球坐标.md"
+              }
             }
           }
         ]
@@ -143,9 +147,13 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "9a4cee90af7d85ba",
+  "active": "88f1bb7bd33bb33f",
   "lastOpenFiles": [
+    "Graphics/pbrt/attachments/Pasted image 20230823104231.png",
+    "Graphics/pbrt/attachments/Pasted image 20230823103919.png",
+    "Graphics/pbrt/attachments",
     "Graphics/pbrt/Chapter 1 Introduction.md",
+    "Graphics/pbrt/球坐标.md",
     "Graphics/rtr/Chapter 5 Shading Basics.md",
     "Graphics/rtr",
     "Graphics/The Tiger Book/Chapter 2 Miscellaneous Math.md",
